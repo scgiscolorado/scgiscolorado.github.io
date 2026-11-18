@@ -32,7 +32,7 @@ Static HTML and CSS, hosted with GitHub Pages. No build step.
 
 Push to `main`, then in the repository go to Settings > Pages and set the
 source to "Deploy from a branch", branch `main`, folder `/ (root)`. The site
-appears at https://scgiscolorado.github.io/colorado/ after a few minutes.
+appears at https://scgiscolorado.github.io/ after a few minutes.
 
 ## Image credits
 

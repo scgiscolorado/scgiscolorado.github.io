@@ -23,8 +23,8 @@ Static HTML and CSS, hosted with GitHub Pages. No build step.
   events (`mode=AGENDA` in the address; remove it to show a month grid). That calendar must be
   set to "Make available to public" in Google Calendar settings, or visitors
   will see an empty calendar.
-- **ListServe**: the button currently opens an email to the chapter. When a
-  Google Group exists, replace the button's `href` with the group address.
+- **ListServe**: the button opens an email to the Google Group's subscribe
+  address (scgis-colorado-email-list+subscribe@googlegroups.com).
 - **Chapter leads**: each lead is a `lead-card` block with a photo, name,
   and LinkedIn link (put photos in `assets/images/`).
 - **Resources**: each link is a `resource-card` block.

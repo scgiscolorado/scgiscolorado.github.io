@@ -1034,3 +1034,7 @@ a {
   border-radius: 50%;
   margin-bottom: 0.9rem;
 }
+
+.signup-instructions li strong {
+  overflow-wrap: anywhere;
+}

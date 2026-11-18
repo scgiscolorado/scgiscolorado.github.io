@@ -795,7 +795,7 @@ a {
 }
 
 .embed-frame iframe {
-  min-height: 600px;
+  min-height: 450px;
   border: 0;
 }
 

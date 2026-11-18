@@ -19,7 +19,8 @@ Static HTML and CSS, hosted with GitHub Pages. No build step.
   `event-highlight` block in the Events section, and the first card in
   Chapter Updates.
 - **Calendar**: the Google Calendar `<iframe>` in the Events section shows
-  the calendar for scgis_colorado_chapter@scgis.org. That calendar must be
+  the calendar for scgis_colorado_chapter@scgis.org as a list of upcoming
+  events (`mode=AGENDA` in the address; remove it to show a month grid). That calendar must be
   set to "Make available to public" in Google Calendar settings, or visitors
   will see an empty calendar.
 - **ListServe**: the button currently opens an email to the chapter. When a

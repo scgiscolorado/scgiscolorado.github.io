@@ -25,8 +25,8 @@ Static HTML and CSS, hosted with GitHub Pages. No build step.
   will see an empty calendar.
 - **ListServe**: the button currently opens an email to the chapter. When a
   Google Group exists, replace the button's `href` with the group address.
-- **Chapter leads**: replace the placeholder `lead-card` blocks with names,
-  bios, and photos (put photos in `assets/images/`).
+- **Chapter leads**: each lead is a `lead-card` block with a photo, name,
+  and LinkedIn link (put photos in `assets/images/`).
 - **Resources**: each link is a `resource-card` block.
 
 ## Publish

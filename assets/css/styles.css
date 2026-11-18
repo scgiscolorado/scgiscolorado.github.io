@@ -1028,3 +1028,9 @@ a {
     grid-template-columns: 1fr;
   }
 }
+
+.team-card .lead-photo {
+  width: 7.5rem;
+  border-radius: 50%;
+  margin-bottom: 0.9rem;
+}

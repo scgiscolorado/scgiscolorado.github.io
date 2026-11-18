@@ -973,3 +973,12 @@ a {
     animation: none;
   }
 }
+
+.event-details .event-meta {
+  margin: 0 0 1rem;
+  color: var(--text);
+}
+
+.event-link {
+  margin-top: 0;
+}
